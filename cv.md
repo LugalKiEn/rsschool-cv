@@ -42,6 +42,8 @@ Function that find factorial from n:
   else return 1;
 }`
 
+This function uses recursion
+
 ###6. WORK EXPERIENCE###
 
 After university I worked a half of an year like developer in little company, after that I went to serve in the military, and now i working like developer again.

@@ -1,1 +1,1 @@
-https://LugalKiEn.github.io/rsschool-cv/
+https://LugalKiEn.github.io/rsschool-cv/index
